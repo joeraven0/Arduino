@@ -1,2 +1,2 @@
 # Arduino_NetworkConnection_reboot-router
-Reboot router with relay if connection lost
+Toggle relay on pin 2 to reboot router if connection is lost
