@@ -19,7 +19,7 @@ void setup()
 void loop()
 {
   digitalWrite(ledPin, LOW);
-  delay(1000);
+  delay(60000);
   Serial.print("...");
   if (client.connect(server, 80)) {
     Serial.print("+");
